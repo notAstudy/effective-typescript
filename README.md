@@ -3,7 +3,7 @@ We plan to read [Effective Typescript](https://effectivetypescript.com/)
 
 ## Why we read
 ### To talk about good and bad habits
-This book introduces some cases that are not good and suggest alternatives. With that suggestions, we can talk about whether or not we need to change our coding habits. By the conversation, we expect to have a list of good habits and try them when we code.
+This book introduces some cases that are not good and suggests alternatives. With that suggestions, we can talk about whether or not we need to change our coding habits. By the conversation, we expect to have a list of good habits and try them when we code.
 
 ### To understand better
 Sometimes, we use some features of TypeScript without sufficient understanding. It would make reasoning harder when something were broken within complex logic. By understanding TypeScript better, we think we can reduce reasoning area. So, we can focus on finding the actual reason, with less concern about TypeScript thing.
