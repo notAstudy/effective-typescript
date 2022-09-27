@@ -2,10 +2,10 @@
 책 주소는 여기에요 [Effective Typescript](https://effectivetypescript.com/)
 
 ## 읽는 이유 이유
-### 좋은 습관과 나쁜 습관을 논해보려고
+### 좋은 습관과 나쁜 습관을 논해봅니다.
 이 책은 usecase와 대안을 소개합니다. 이거가지고 논해보는 걸로 좋은 습관에 대한 생각을 함께 공유합니다.
 
-### Typescript를 더 잘 이해하려고
+### Typescript를 이해해 봅니다.
 솔직히, 충분한 이해 없이 Typescript를 쓰기도 합니다. 더 잘 알면 더 잘 짜고, 잘 고칠 수 있을 것 같습니다.
 
 ## 계획
