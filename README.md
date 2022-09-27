@@ -1,39 +1,39 @@
-# Hello, Effective TypeScript
-We plan to read [Effective Typescript](https://effectivetypescript.com/)
+# 이펙티브  타입스크립트를 읽습니다.
+책 주소는 여기에요 [Effective Typescript](https://effectivetypescript.com/)
 
-## Why we read
-### To talk about good and bad habits
-This book introduces some cases that are not good and suggests alternatives. With that suggestions, we can talk about whether or not we need to change our coding habits. By the conversation, we expect to have a list of good habits and try them when we code.
+## 읽는 이유 이유
+### 좋은 습관과 나쁜 습관을 논해보려고
+이 책은 usecase와 대안을 소개합니다. 이거가지고 논해보는 걸로 좋은 습관에 대한 생각을 함께 공유합니다.
 
-### To understand better
-Sometimes, we use some features of TypeScript without sufficient understanding. It would make reasoning harder when something were broken within complex logic. By understanding TypeScript better, we think we can reduce reasoning area. So, we can focus on finding the actual reason, with less concern about TypeScript thing.
+### Typescript를 더 잘 이해하려고
+솔직히, 충분한 이해 없이 Typescript를 쓰기도 합니다. 더 잘 알면 더 잘 짜고, 잘 고칠 수 있을 것 같습니다.
 
-## How we read
-### pick at most 6 items in a week per person
-- We pick at most 6 items among 10 ~ 20 items in a week.
-    - We need to organise the reasons of choice. 
+## 계획
+### 주에 최대 6개 item을 선정합니다.
+- 10~20개 item 중에 최대 6개 고릅니다.
+    - 선정의 이유가 있어야 합니다.
 
-### share the items and reasons
-- share the perspectives.
-- organise knowledge.
+### 선정한 이유와 item을 공유합니다.
+- 위에서 말한 기준을 공유합니다.
+- 관련한 질문을 공유합니다.
 
-### choose the most 3 important items in a week
-- explain why they are important than others.
-- prepare topics of ariticle
+### 주에 3개 item을 선정합니다.
+- 중요한 이유를 논해봅니다.
+- 마지막 주를 대비합니다.
 
-## How we share
-### within repo
-- use branches and folders on each week
+## 공유 방법
+### repo에서는 브랜치 씁니다.
+- \[num\]-week/[nick]으로 브랜치를 씁니다.
 
-### outside of the world
-- we will choose the topic to write on last day of reading.
-- after sharpening process on last day, we will publish our article on community.
-    - we will pick the community on last day.
+### 외부
+- (마지막 - 1)주에 글쓸 주제를 선정합니다.
+- 글쓰고, 막주에 퇴고합니다.
+    - 막주에 커뮤니티 정해서 올립니다.
 
-## Other informations
-### no penalties
-- There is no penalty about reading
-    - If you don't read the part of the book, the study time could be worth less compare to others.
+## 기타
+### penalty는 없습니다.
+- 빠져도 됩니다.
+    - 본인 손해죠
 
 ### study time 
 - 5 to 7 PM, Tuesday.
