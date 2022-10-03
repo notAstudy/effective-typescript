@@ -15,3 +15,7 @@
 ## 선정의 기준
 1. 내가 몰랐다.
 2. 개인의 생산성과 관련해, 지키면 좋을 것 같다.
+
+## 참고할법한 링크
+### typescript deepdive
+- [Typescript/deepdive](https://basarat.gitbook.io/typescript/overview)
